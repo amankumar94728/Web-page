@@ -1,0 +1,33 @@
+    /* src/components/Testimonials.css */
+.testimonials {
+    padding: 2rem;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .testimonials h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .testimonial-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .testimonial-item {
+    flex: 1;
+    margin: 0 1rem;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    border-radius: 5px;
+  }
+  
+  .testimonial-item p {
+    font-style: italic;
+  }
+  
+  .testimonial-item h4 {
+    margin-top: 1rem;
+    color: #333;
+  }
+  

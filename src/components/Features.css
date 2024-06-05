@@ -1,0 +1,29 @@
+/* src/components/Features.css */
+.features {
+    padding: 2rem;
+    background-color: #f4f4f4;
+    text-align: center;
+  }
+  
+  .features h2 {
+    margin-bottom: 2rem;
+  }
+  
+  .feature-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature-item {
+    flex: 1;
+    margin: 0 1rem;
+  }
+  
+  .feature-item h3 {
+    margin-bottom: 1rem;
+  }
+  
+  .feature-item p {
+    color: #555;
+  }
+  
